@@ -16,7 +16,7 @@ header ul li{
   background-color: rgb(59, 240, 53)
 }
 .project-desc{
-  @apply absolute left-0 right-0 bottom-0 top-0 bg-pro flex text-center opacity-0 duration-500 pt-10 hover:opacity-70
+  @apply absolute left-0 right-0 bottom-0 top-0 bg-pro flex text-center opacity-0 duration-500 pt-10 hover:opacity-100
 }
 .mob-nav{
   @apply fixed top-10 left-0 bg-slate-600 w-full h-1/2;
